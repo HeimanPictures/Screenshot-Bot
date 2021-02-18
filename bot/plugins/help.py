@@ -6,6 +6,8 @@ from ..screenshotbot import ScreenShotBot
 HELP_TEXT = """
 Hi {}. Welcome to Screenshot Generator Bot. You can use me to generate
 
+This Bot is made by @heimanpicture @heimancreatiin @heimancreation @HeimanTGSupport
+
     1. Screenshots.
     2. Sample Video.
     3. Trim Video.
