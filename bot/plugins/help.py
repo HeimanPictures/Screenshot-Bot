@@ -20,7 +20,7 @@ Hi {}. Welcome to Screenshot Generator Bot. You can use me to generate
 
 __If issues persists contact my father.__
 
-This Bot is made by @heimanpicture @heimancreatiin @heimancreation @HeimanTGSupport"""
+If any Queries Contact @heimansuppor, Future updates @heimansupports"""
 
 
 @ScreenShotBot.on_message(Filters.private & Filters.command("help"))
