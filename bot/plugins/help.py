@@ -9,7 +9,7 @@ Hi {mention}. Welcome to Screenshot Generator Bot. You can use me to generate:
 
     1. Screenshots.
     2. Sample Video.
-    3. Trim Video.
+    3. Trim Video. 
 
 👉 I support any kind of **telegram video file** (streaming video or document video files) provided it --has proper mime-type-- and --is not corrupted--.
 👉 I also support **Streaming URLs**. The URL should be a --streaming URL--, --non IP specific--, and --should return proper response codes--.
